@@ -12,3 +12,11 @@ Starting with n=10
 len = 6
 
 Which n < 1 000 000 produces the longest chain
+
+Sol'n
+
+n = 837799
+len = 525
+
+
+Don't ask me to try it in C or Java, that is cruel and unusual punishment
