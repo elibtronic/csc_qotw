@@ -1,0 +1,14 @@
+
+Following is called the hailstone sequence
+
+n=n/2, if n is even
+n=3n+1, if n is odd
+n=1, stop
+
+Starting with n=10
+
+10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+
+len = 6
+
+Which n < 1 000 000 produces the longest chain
